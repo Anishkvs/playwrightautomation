@@ -7,3 +7,5 @@ Run:
 npx playwright test
 
 npx playwright test --headed
+
+next: https://www.udemy.com/course/playwright-tutorials-automation-testing/learn/lecture/31110000?start=255#overview
